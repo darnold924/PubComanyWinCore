@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PubCompanyWinCore", "PubComanyWinCore\PubCompanyWinCore.csproj", "{25A88C8C-2667-46F8-BFD4-BF49946EA477}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BLL", "BLL\BLL.csproj", "{4D091F86-6CBE-4B44-8C26-B4625BE68CD2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "DAL\DAL.csproj", "{A1048AA7-B565-4C07-BF5E-5B283CD268A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{8521DD79-D323-4B06-9210-153077C1AE9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25A88C8C-2667-46F8-BFD4-BF49946EA477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25A88C8C-2667-46F8-BFD4-BF49946EA477}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25A88C8C-2667-46F8-BFD4-BF49946EA477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25A88C8C-2667-46F8-BFD4-BF49946EA477}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D091F86-6CBE-4B44-8C26-B4625BE68CD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D091F86-6CBE-4B44-8C26-B4625BE68CD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D091F86-6CBE-4B44-8C26-B4625BE68CD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D091F86-6CBE-4B44-8C26-B4625BE68CD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1048AA7-B565-4C07-BF5E-5B283CD268A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1048AA7-B565-4C07-BF5E-5B283CD268A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1048AA7-B565-4C07-BF5E-5B283CD268A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1048AA7-B565-4C07-BF5E-5B283CD268A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8521DD79-D323-4B06-9210-153077C1AE9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8521DD79-D323-4B06-9210-153077C1AE9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8521DD79-D323-4B06-9210-153077C1AE9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8521DD79-D323-4B06-9210-153077C1AE9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8EEE1C4-9318-4AB6-94BB-2E591107C8CE}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://darnold924x.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = PubComanyWinCore\\PubCompanyWinCore.csproj
+		SccProjectName1 = PubComanyWinCore
+		SccLocalPath1 = PubComanyWinCore
+		SccProjectUniqueName2 = BLL\\BLL.csproj
+		SccProjectName2 = BLL
+		SccLocalPath2 = BLL
+		SccProjectUniqueName3 = DAL\\DAL.csproj
+		SccProjectName3 = DAL
+		SccLocalPath3 = DAL
+		SccProjectUniqueName4 = Entities\\Entities.csproj
+		SccProjectName4 = Entities
+		SccLocalPath4 = Entities
+	EndGlobalSection
+EndGlobal
